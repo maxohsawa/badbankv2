@@ -5,10 +5,10 @@
 ### A demonstration of an interactive and functional "banking" site with frontend routing to backend and database interactions.
 
 ## Installation
-Run `git clone https://github.com/maxohsawa/badbankv2.git`
-Run `npm install` on main directory
-Run `docker run -p 27017:27017 --name badbank -d mongo`
-Open the 'public' directory and run `http-server -c-1`
+Run `git clone https://github.com/maxohsawa/badbankv2.git`\
+Run `npm install` on main directory\
+Run `docker run -p 27017:27017 --name badbank -d mongo`\
+Open the 'public' directory and run `http-server -c-1`\
 Direct your browser to the IP and port given by http-server
 
 ## Screenshots
@@ -23,7 +23,7 @@ Direct your browser to the IP and port given by http-server
 - MongoDB
 
 ## Features
-Site allows for the creation of new accounts, login, deposit, withdrawal, view balance, and view all data.
+Site allows for the creation of new accounts, login, deposit, withdrawal, view balance, and view all data.\
 Would like to add authentication and authorization in a future release.
 
 ## License
